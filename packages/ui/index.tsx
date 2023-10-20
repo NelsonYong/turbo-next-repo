@@ -1,2 +1,5 @@
-// component exports
-export { Card } from "./card";
+import "./styles/globals.css";
+
+import "./components";
+
+export * from "@nextui-org/react";
